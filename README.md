@@ -1,7 +1,7 @@
 # Samu-RI_Discord_Bot
 A discord bot made with python
 
-NOTE: replace the 'TOKEN' with your bots token
+NOTE: replace the 'TOKEN' with your bots token on the last line of the code
 
 FEATURES:
 
