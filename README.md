@@ -3,6 +3,8 @@ A discord bot made with python
 
 FEATURES:
 
-Able to say the date
+Able to say the date --> $date
 
-Deletes messages containing bad words
+Generates random quotes --> $quote
+
+Deletes messages containing bad words 
